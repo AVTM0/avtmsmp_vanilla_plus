@@ -671,11 +671,6 @@ hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "4be62e4d02fb985089569220d8a4e87fe2bf2822f10edcd292d033781e561e26"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "f2855ca462a5ef36206a941612989aed049b1cd49559f0f2d4d247505566e546"
 metafile = true
