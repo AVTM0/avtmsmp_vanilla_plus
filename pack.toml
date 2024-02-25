@@ -1,0 +1,13 @@
+name = "AVTM SMP - Vanilla+"
+author = "kcesar.dev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d36622c34a5cb911edc34abbde2eeae88044c03efb3bd1535c3e6e72f34b5d0"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"
