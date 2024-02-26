@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "changelog.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
