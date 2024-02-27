@@ -86,6 +86,11 @@ hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
 metafile = true
@@ -238,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "d3870c0ecaac258259498cf7888796b5960b3610f9c218935be292a70f3d976d"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0d6f999c9c9a31ca4d07d00165ac408b0a2c7ffcfc67c114b8a7ffcb9727d7ec"
+hash = "3d17c94ea4b246b161fb1d89be7c8a80aa7d3e89aedf596838912325cf3b23be"
 metafile = true
 
 [[files]]
