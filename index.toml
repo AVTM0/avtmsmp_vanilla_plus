@@ -371,6 +371,11 @@ hash = "d53b2c212f13b8a80d3e716220771610c4fab9ff627c95f0001e747e5b095b6f"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "464cd9c14b5c94f303e541010146f8c1d5c1b7b1755bf7c517f9bcbca092ef0f"
 metafile = true
 
 [[files]]

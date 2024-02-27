@@ -1,4 +1,9 @@
-# 1.0.4
+# 1.0.5
+
+- Added FTB Backups
+-
+
+## 1.0.4
 
 - Removed EMI due to crashes
 - Added Jade
