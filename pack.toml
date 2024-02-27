@@ -1,12 +1,12 @@
 name = "AVTM SMP - Vanilla+"
 author = "kcesar.dev"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3a282712d3b797471c56f5e50c7bc9dd7222b443510fad48616863acfbc425f1"
+hash = "50af83cb1f89c7a1b694b116592fd17aa3175bb9aeac7faadc3daf6ed877faaf"
 
 [versions]
 fabric = "0.15.7"

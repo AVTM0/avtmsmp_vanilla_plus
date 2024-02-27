@@ -1,3 +1,9 @@
+# 1.0.4
+
+- Removed EMI due to crashes
+- Added Jade
+- Added Complementary Reimagined
+
 ## 1.0.3
 
 - Removed REI, replaced with EMI (The true cause of the lag)

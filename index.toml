@@ -271,21 +271,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "b65744fcf3ebfd08258a1d930f7821dd9b9df32f88295433b2bbdb9d4d78664d"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
@@ -448,6 +433,16 @@ metafile = true
 [[files]]
 file = "mods/items-displayed.pw.toml"
 hash = "af7f4c9e3f3b291428f2771d17acbbe0bacf94ac1b409ea44059803427cd3cf2"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
 metafile = true
 
 [[files]]
@@ -768,4 +763,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
