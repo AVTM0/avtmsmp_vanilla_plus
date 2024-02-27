@@ -1,7 +1,9 @@
 # 1.0.5
 
 - Added FTB Backups
--
+- Added Bobby
+- Added Farmer's Delight
+- Added Universal Graves
 
 ## 1.0.4
 
@@ -29,3 +31,4 @@
 ## 1.0.0
 
 - Initial release
+

@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/YL57xq9U/versions/JHbrO6Zq/iris-mc1.20.1-1.
 hash-format = "sha1"
 hash = "daaa0a952273301117d3dc42bde68c6f1f60b318"
 
+[option]
+optional = true
+default = false
+description = "Se você quiser usar shaders, ative o Iris, se não for usar shaders, não use o Iris"
+
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
