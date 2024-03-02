@@ -16,7 +16,9 @@
 - Added Soulbound
 - Added IrisFlywheelCompat
 - Included Glowing Ores Resource Pack
-- Added Multiplayer Pause
+- ~~Added Multiplayer Pause~~ Removed due to crashes
+
+
 
 ## 1.0.5
 
