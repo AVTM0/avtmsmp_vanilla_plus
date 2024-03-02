@@ -634,11 +634,6 @@ hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
 metafile = true
 
 [[files]]
-file = "mods/multiplayer-server-pause-fabric.pw.toml"
-hash = "25e58917b2a274787265fc3bb7b9b2369577ec0170eadd1a79f61bd3ffdf035f"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
