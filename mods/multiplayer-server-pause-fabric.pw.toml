@@ -1,0 +1,13 @@
+name = "Multiplayer Server Pause (Fabric)"
+filename = "MultiplayerServerPause-1.20.2-Fabric-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a3631effc6fbd47921077635bcbcd4d33b9ae6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041346
+project-id = 556493

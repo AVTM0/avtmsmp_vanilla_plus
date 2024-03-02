@@ -13,6 +13,10 @@
 - Added LazyDFU
 - Changed storage space for backpacks
 - Added Logicates
+- Added Soulbound
+- Added IrisFlywheelCompat
+- Included Glowing Ores Resource Pack
+- Added Multiplayer Pause
 
 ## 1.0.5
 

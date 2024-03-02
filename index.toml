@@ -5,6 +5,10 @@ file = "config/backpacked-common.toml"
 hash = "9db53f6746c06384b6ac3f9459ad6543d4a7149b48bf19cf6c7d0647194dcdc0"
 
 [[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "be5d1e734bdb6ca44bfbe25a6e805a6d7a8e1a7d2084718acaae48c7e96a236d"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
@@ -176,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "2b880a4be1a624e956fafaea89834828c58b0c512e611e6746c3fb8d9e93b260"
+hash = "f639cf7e7dc85a5f3e1f2a35dffbbef188f2468cb4b39502a6a8c171ac238044"
 metafile = true
 
 [[files]]
@@ -230,8 +234,8 @@ hash = "0dc9fad2f8048eab5f3ba5d1ee71884046fea3de7e8432df5d1ab66b6e084c85"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "7ce8a3f66cbd2636572825cfd2fa22cb20dcdf2ce788b27cb9cf8c3b87d8f48e"
 metafile = true
 
 [[files]]
@@ -356,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
 metafile = true
 
 [[files]]
@@ -480,8 +484,13 @@ hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "7e71ea806446b309cc3e7a5527a2e319838d93c4c707fe88eb41811eeb094287"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
-hash = "3d17c94ea4b246b161fb1d89be7c8a80aa7d3e89aedf596838912325cf3b23be"
+hash = "91789959adf06a54f4ac8faa29314dccc75121ba05a5dae211c63b54e11163e8"
 metafile = true
 
 [[files]]
@@ -622,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
+file = "mods/multiplayer-server-pause-fabric.pw.toml"
+hash = "25e58917b2a274787265fc3bb7b9b2369577ec0170eadd1a79f61bd3ffdf035f"
 metafile = true
 
 [[files]]
@@ -878,6 +892,15 @@ metafile = true
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modded-glowing-ores.pw.toml"
+hash = "363bcc93d3ddbeda163d09bf6124f4e5c79a3a5bfea5f54082efe705316d2ff1"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "831375f2d4fc758f14075dd9b34a1c15a47c4cd5abb9aa9d2870ec2ff97e6efd"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
