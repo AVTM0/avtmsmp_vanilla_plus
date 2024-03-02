@@ -1,4 +1,20 @@
-# 1.0.5
+# 1.0.6
+
+- Added Trash Slot
+- Replaced "Stack to Nearby Chests" with QuickStack
+- Added Starlight
+- Added Extended Drawers
+- Added Presence Footsteps (As optional)
+- Added Sound Physics Remastered (As optional)
+- Added AmbientSounds (As optional)
+- Added Sound
+- Added Ding
+- Added Extreme Sound Mufflers
+- Added LazyDFU
+- Changed storage space for backpacks
+- Added Logicates
+
+## 1.0.5
 
 - Added FTB Backups
 - Added Bobby
